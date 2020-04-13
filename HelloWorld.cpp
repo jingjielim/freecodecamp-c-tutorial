@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-// Any lines in main is executed when the file is run
+// When the file is run, the program will find the main() function and run it
 int main()
 {
     cout << "Hello World!" << endl;
